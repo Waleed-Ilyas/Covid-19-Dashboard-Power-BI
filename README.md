@@ -51,3 +51,6 @@ I’m excited to present my latest project—an interactive COVID-19 dashboard t
 💡 **Objective:**
 
 The primary aim of this project is to develop a comprehensive tool that helps understand the global impact and spread of COVID-19. The dashboard provides clear, actionable insights to support policymakers, healthcare professionals, and the public in making informed decisions to combat the pandemic.
+
+
+<img width="606" alt="Covid 19 Dashboard Pic 1" src="https://github.com/user-attachments/assets/0a164154-44cc-46cc-bfc2-036e3697b369">
